@@ -7,3 +7,5 @@ Titanic Data Preprocessing Project 🛳️ Project Overview  This project focuse
 
 
 <img width="1835" height="711" alt="Screenshot 2025-09-22 111434" src="https://github.com/user-attachments/assets/f92fbb21-e0bd-4aa2-830f-669c89e6ae5c" />
+
+<img width="1468" height="779" alt="Screenshot 2025-09-22 111514" src="https://github.com/user-attachments/assets/85108098-2a8c-476e-abcb-33fdf5e0bdf5" />
